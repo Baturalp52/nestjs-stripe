@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-stripe",
+  "name": "@baturalp52/nestjs-stripe",
   "version": "1.0.0",
   "description": "Provides an injectable Stripe client to nestjs modules",
   "repository": "https://github.com/Baturalp52/nestjs-stripe",
