@@ -1,6 +1,6 @@
 {
   "name": "@baturalp52/nestjs-stripe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides an injectable Stripe client to nestjs modules",
   "repository": "https://github.com/Baturalp52/nestjs-stripe",
   "author": {
@@ -31,13 +31,13 @@
     "@types/jest": "27.5.1",
     "@types/node": "16.10.3",
     "codecov": "3.8.3",
-    "jest": "25.2.7",
+    "jest": "29.5.0",
     "prettier": "2.4.1",
     "reflect-metadata": "0.1.12",
     "rimraf": "3.0.2",
     "rxjs": "7.4.0",
     "stripe": "12.11.0",
-    "ts-jest": "25.2.1",
+    "ts-jest": "29.1.1",
     "typescript": "4.4.3"
   },
   "peerDependencies": {
@@ -65,6 +65,5 @@
     },
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
-  },
-  "dependencies": {}
+  }
 }
